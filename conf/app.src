@@ -1,7 +1,7 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://github.com/processwire/processwire/archive/refs/tags/3.0.200.zip
+SOURCE_SUM=ed1b2ce41c8143092b67451240dd509ea51248cb67a36bd471c14ef89a800254
 SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=tar.gz
+SOURCE_FORMAT=zip
 SOURCE_IN_SUBDIR=true
 SOURCE_FILENAME=
 SOURCE_EXTRACT=true
