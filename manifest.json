@@ -12,7 +12,6 @@
         "license": "MPL",
         "website": "https://processwire.com/",
         "demo": "https://processwire.com/about/demo/",
-        "admindoc": "https://yunohost.org/packaging_apps",
         "code": "https://github.com/processwire/processwire"
     },
     "license": "MPL",
