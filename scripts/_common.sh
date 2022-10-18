@@ -18,7 +18,7 @@
 # PHP dependencies used by the app (must be on a single line)
 #php_dependencies="php$YNH_PHP_VERSION-deb1 php$YNH_PHP_VERSION-deb2"
 # or, if you do not need a custom YNH_PHP_VERSION:
-php_dependencies="php$YNH_DEFAULT_PHP_VERSION-gd"
+php_dependencies="php$YNH_DEFAULT_PHP_VERSION-gd php$YNH_DEFAULT_PHP_VERSION-mysql"
 
 # dependencies used by the app (must be on a single line)
 pkg_dependencies="$php_dependencies"
